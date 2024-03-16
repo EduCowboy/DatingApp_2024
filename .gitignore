@@ -1,0 +1,3 @@
+.vscode/launch.json
+API/appsettings.Development.json
+API/bin/Debug/net8.0/appsettings.Development.json
