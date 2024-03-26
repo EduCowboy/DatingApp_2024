@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projetos\\DatingApp_2024\\api\\API.csproj": {}
+    "E:\\Projetos\\DatingApp_2024\\API\\API.csproj": {}
   },
   "projects": {
-    "E:\\Projetos\\DatingApp_2024\\api\\API.csproj": {
+    "E:\\Projetos\\DatingApp_2024\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projetos\\DatingApp_2024\\api\\API.csproj",
+        "projectUniqueName": "E:\\Projetos\\DatingApp_2024\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\Projetos\\DatingApp_2024\\api\\API.csproj",
+        "projectPath": "E:\\Projetos\\DatingApp_2024\\API\\API.csproj",
         "packagesPath": "C:\\Users\\marcm\\.nuget\\packages\\",
-        "outputPath": "E:\\Projetos\\DatingApp_2024\\api\\obj\\",
+        "outputPath": "E:\\Projetos\\DatingApp_2024\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marcm\\AppData\\Roaming\\NuGet\\NuGet.Config"
