@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AFGiXLGTALQJwXLdEP8QhoMIelx+aO6sGwYuPT6jCKEA9sSajifKjoU6RMYaEvbLmE5dD2MCxc2og6JlGHJnZQ==",
+  "dgSpecHash": "FvrIdyLrcsWLkCp8ruhUdg6DUjVgTfz+a8H3erztP2XjUx1Ghn2THViJpTEQmEYaJu3WjMJeUwFmr6pAGEeHzQ==",
   "success": true,
-  "projectFilePath": "E:\\Projetos\\DatingApp_2024\\API\\API.csproj",
+  "projectFilePath": "E:\\Projetos\\DatingApp_2024\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marcm\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\marcm\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
