@@ -8593,11 +8593,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\Projetos\\DatingApp_2024\\API\\API.csproj",
+      "projectUniqueName": "E:\\Projetos\\DatingApp_2024\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "e:\\Projetos\\DatingApp_2024\\API\\API.csproj",
+      "projectPath": "E:\\Projetos\\DatingApp_2024\\API\\API.csproj",
       "packagesPath": "C:\\Users\\marcm\\.nuget\\packages\\",
-      "outputPath": "e:\\Projetos\\DatingApp_2024\\API\\obj\\",
+      "outputPath": "E:\\Projetos\\DatingApp_2024\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marcm\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -8675,7 +8675,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
