@@ -1,4 +1,5 @@
 import { Component, OnInit, ViewEncapsulation } from '@angular/core';
+import { Observable } from 'rxjs';
 import { UserDetailResponse } from 'src/app/_models/user-detail-response';
 import { UsersService } from 'src/app/_services/users.service';
 
@@ -8,21 +9,13 @@ import { UsersService } from 'src/app/_services/users.service';
   styleUrls: ['./member-list.component.css']
 })
 export class MemberListComponent implements OnInit {
-  userDetailResponse: UserDetailResponse[] = [];
+  userDetailResponse$: Observable<UserDetailResponse[]> | undefined;
 
   constructor(private userService: UsersService) {
 
   }
 
   ngOnInit(): void {
-    this.loadUsers();
+    this.userDetailResponse$ = this.userService.getUsers();
   }
-
-  loadUsers()
-  {
-    this.userService.getUsers().subscribe({
-      next: usersDetailResponse => this.userDetailResponse = usersDetailResponse
-    })
-  }
-
 }

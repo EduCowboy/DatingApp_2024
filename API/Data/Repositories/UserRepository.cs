@@ -53,7 +53,7 @@ namespace API.Data.Repositories
             .ToListAsync();
         }
 
-        public async Task<bool> SaveAll()
+        public async Task<bool> SaveAllAsync()
         {
             return await _dataContext.SaveChangesAsync() > 0;
         }
